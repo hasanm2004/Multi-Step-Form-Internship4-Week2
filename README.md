@@ -27,6 +27,7 @@ This project simulates backend-style form validation by guiding users through a 
 
 • Responsive User Interface
 
+
 # Technologies Used:
 • HTML5
 
@@ -35,6 +36,7 @@ This project simulates backend-style form validation by guiding users through a 
 • JavaScript (ES6)
 
 • Local Storage API
+
 
 Learning Outcomes:
 • Form Validation Techniques
